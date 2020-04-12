@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch01/tacos/pom.xml" />
+        <option value="$PROJECT_DIR$/ch02/tacos/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03/tacos-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03/tacos-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04/tacos/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05/tacos/pom.xml" />
+        <option value="$PROJECT_DIR$/ch06/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="12" project-jdk-type="JavaSDK" />
+</project>

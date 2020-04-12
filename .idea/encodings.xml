@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ch01/tacos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch02/tacos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch03/tacos-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch03/tacos-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04/tacos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch05/tacos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch06" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch06/tacocloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch06/tacocloud-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch06/tacocloud-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch06/tacocloud-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch06/tacocloud-ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch06/tacocloud-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch06/tacos" charset="UTF-8" />
+  </component>
+</project>

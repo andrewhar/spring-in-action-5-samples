@@ -1,0 +1,7 @@
+tacocloud-ui
+    npm install
+go to root
+    ./mvnw clean package
+tacos
+    click pom.xml
+    add as maven
